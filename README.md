@@ -33,11 +33,11 @@ My work focuses on translating operational challenges into measurable KPIs, stru
 
 ## Featured Project
 
-### Workforce Operations Analytics & Decision Intelligence
+### [Workforce Operations Analytics & Decision Intelligence](https://github.com/msangaru/workforce-operations-analytics)
 
 An end-to-end operations analytics portfolio using a synthetic, company-neutral dataset.
 
-The project demonstrates:
+**Key capabilities demonstrated:**
 
 - Business problem framing
 - Data curation and validation
@@ -47,13 +47,9 @@ The project demonstrates:
 - Activity-level performance measurement
 - Workload-pattern analysis
 - Operational-flow monitoring
-- SQL queries
-- Python analysis
+- SQL and Python analysis
 - Dashboard design
 - Executive recommendations
-
-🔗 **View the project:**  
-https://github.com/msangaru/workforce-operations-analytics
 
 ---
 
@@ -82,8 +78,8 @@ I combine operational leadership, enterprise technology experience, and analytic
 
 ## Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/manoharsangaru
-- **GitHub:** https://github.com/msangaru
+- **LinkedIn:** [linkedin.com/in/manoharsangaru](https://www.linkedin.com/in/manoharsangaru)
+- **GitHub:** [github.com/msangaru](https://github.com/msangaru)
 
 ---
 
